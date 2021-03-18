@@ -8,6 +8,7 @@ Inicio Aplicativo:
   git clone https://github.com/hom669/TiendAppPrueba.git
 
 2. Crear Base de Datos Local con cualquier nombre:
+3. 
 
 3. Cambiar el archivo .env para que apunte a esta base cambiar parametro:
 
