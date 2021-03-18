@@ -5,15 +5,16 @@ Inicio Aplicativo:
 
 1. Descargar Repositorio con:
 
-https://github.com/hom669/TiendAppPrueba.git
+  git clone https://github.com/hom669/TiendAppPrueba.git
 
 2. Crear Base de Datos Local con cualquier nombre:
+3. 
 
 3. Cambiar el archivo .env para que apunte a esta base cambiar parametro:
 
-DB_DATABASE=pruebatiendapp
+DB_DATABASE=pruebaTiendApp
 DB_USERNAME=root
-DB_PASSWORD=123456
+DB_PASSWORD=
 
 4. Realizar el ingreso por consola a la carpeta TiendAppPrueba
    * cd TiendAppPrueba
