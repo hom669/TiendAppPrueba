@@ -12,9 +12,9 @@ Inicio Aplicativo:
 
 3. Cambiar el archivo .env para que apunte a esta base cambiar parametro:
 
-DB_DATABASE=pruebatiendapp
+DB_DATABASE=pruebaTiendApp
 DB_USERNAME=root
-DB_PASSWORD=123456
+DB_PASSWORD=
 
 4. Realizar el ingreso por consola a la carpeta TiendAppPrueba
    * cd TiendAppPrueba
