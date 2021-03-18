@@ -5,7 +5,7 @@ Inicio Aplicativo:
 
 1. Descargar Repositorio con:
 
-https://github.com/hom669/TiendAppPrueba.git
+  git clone https://github.com/hom669/TiendAppPrueba.git
 
 2. Crear Base de Datos Local con cualquier nombre:
 
